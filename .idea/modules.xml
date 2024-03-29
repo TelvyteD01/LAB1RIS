@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1234.iml" filepath="$PROJECT_DIR$/.idea/1234.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RIS LAB1 CLIENT/RIS LAB1 CLIENT.iml" filepath="$PROJECT_DIR$/RIS LAB1 CLIENT/RIS LAB1 CLIENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RIS LAB1 SERVER/RIS LAB1 SERVER.iml" filepath="$PROJECT_DIR$/RIS LAB1 SERVER/RIS LAB1 SERVER.iml" />
+    </modules>
+  </component>
+</project>
